@@ -1,0 +1,15 @@
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\bin\Debug\net8.0\StinkyModel.deps.json
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\bin\Debug\net8.0\StinkyModel.dll
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\bin\Debug\net8.0\StinkyModel.pdb
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.AssemblyInfoInputs.cache
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.AssemblyInfo.cs
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.csproj.CoreCompileInputs.cache
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.sourcelink.json
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.dll
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\refint\StinkyModel.dll
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.pdb
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\ref\StinkyModel.dll
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\bin\Debug\net8.0\StinkyModel.runtimeconfig.json
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.genruntimeconfig.cache
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.csproj.AssemblyReference.cache

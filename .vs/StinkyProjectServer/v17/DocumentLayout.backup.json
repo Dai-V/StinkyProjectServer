@@ -1,70 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\stinkyprojectserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\stinkyprojectserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "StinkyProjectServer\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "StinkyProjectServer\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T01:18:02.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Program.cs",
-              "RelativeDocumentMoniker": "StinkyProjectServer\\Program.cs",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Program.cs",
-              "RelativeToolTip": "StinkyProjectServer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T23:42:05.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StinkyProjectServer.http",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\StinkyProjectServer.http",
-              "RelativeDocumentMoniker": "StinkyProjectServer\\StinkyProjectServer.http",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\StinkyProjectServer.http",
-              "RelativeToolTip": "StinkyProjectServer\\StinkyProjectServer.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-07T23:42:02.674Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
