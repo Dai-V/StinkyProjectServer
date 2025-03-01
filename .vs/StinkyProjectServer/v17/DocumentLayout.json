@@ -1,12 +1,55 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\Controllers\\SeedController.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "StinkyProjectServer\\Controllers\\SeedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T01:52:58.791Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "StinkyProjectServer\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:48:06.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

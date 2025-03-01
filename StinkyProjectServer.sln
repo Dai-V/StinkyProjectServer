@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StinkyProjectServer", "StinkyProjectServer\StinkyProjectServer.csproj", "{5604B291-A5BA-4541-A50D-42D8094A074B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E} = {41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StinkyModel", "StinkyModel\StinkyModel.csproj", "{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}"
 EndProject
