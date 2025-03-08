@@ -273,3 +273,4 @@ C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyProjectServer\bin\Debug
 C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyProjectServer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyProjectServer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyProjectServer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyProjectServer\bin\Debug\net8.0\CsvHelper.dll

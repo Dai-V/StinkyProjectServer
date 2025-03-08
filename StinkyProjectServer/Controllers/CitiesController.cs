@@ -20,7 +20,7 @@ namespace StinkyProjectServer.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<City>>> GetCities()
         {
-            return await _context.Cities.ToListAsync();
+            return await _context.Cities.Take(100).ToListAsync();
         }
 
         [HttpGet("CityCountry")]
