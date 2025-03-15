@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkymodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|solutionrelative:stinkymodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkymodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|solutionrelative:stinkymodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkymodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|solutionrelative:stinkymodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\Country.cs",
               "RelativeDocumentMoniker": "StinkyModel\\Country.cs",
               "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\Country.cs",
               "RelativeToolTip": "StinkyModel\\Country.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T01:47:24.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CountryPopulation.cs",
               "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Dto\\CountryPopulation.cs",
               "RelativeDocumentMoniker": "StinkyProjectServer\\Dto\\CountryPopulation.cs",
               "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Dto\\CountryPopulation.cs",
               "RelativeToolTip": "StinkyProjectServer\\Dto\\CountryPopulation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T01:47:15.019Z",
               "EditorCaption": ""
@@ -74,7 +74,7 @@
               "RelativeDocumentMoniker": "StinkyProjectServer\\Dto\\CityCountry.cs",
               "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Dto\\CityCountry.cs",
               "RelativeToolTip": "StinkyProjectServer\\Dto\\CityCountry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T01:44:55.141Z",
               "EditorCaption": ""
@@ -87,33 +87,33 @@
               "RelativeDocumentMoniker": "StinkyProjectServer\\Controllers\\CitiesController.cs",
               "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\CitiesController.cs",
               "RelativeToolTip": "StinkyProjectServer\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T01:14:10.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CountriesController.cs",
               "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "StinkyProjectServer\\Controllers\\CountriesController.cs",
               "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\CountriesController.cs",
               "RelativeToolTip": "StinkyProjectServer\\Controllers\\CountriesController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAiwDYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T01:09:59.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\City.cs",
               "RelativeDocumentMoniker": "StinkyModel\\City.cs",
               "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\City.cs",
               "RelativeToolTip": "StinkyModel\\City.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T00:45:55.599Z",
               "EditorCaption": ""

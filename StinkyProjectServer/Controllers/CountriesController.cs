@@ -45,21 +45,17 @@ namespace StinkyProjectServer.Controllers
         [HttpGet("GetPopulation/{id}")]
         public async Task<ActionResult<CountryPopulation>> GetCountryPopulation(int id)
         {
-            var country = await _context.Countries.FindAsync(id);
-
-            if (country == null)
-            {
-                return NotFound();
-            }
-
-            return new CountryPopulation
-            {
-                Id = country.Id,
-                Name = country.Name,
-                Iso2 = country.Iso2,
-                Iso3 = country.Iso3,
-                Population = country.Cities.Sum(x => x.Population)
-            };
+            CountryPopulation country = await _context.Countries.Where(country => country.Id == id)
+                .Select(country => new CountryPopulation
+                {
+                    Id = country.Id,
+                    Name = country.Name,
+                    Iso2 = country.Iso2,
+                    Iso3 = country.Iso3,
+                    Population = country.Cities.Sum(x => x.Population),
+                    CityCount = country.Cities.Count()
+                }).SingleAsync();
+            return country;  
             
         }
 

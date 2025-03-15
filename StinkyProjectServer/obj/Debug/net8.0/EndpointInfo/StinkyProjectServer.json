@@ -627,12 +627,14 @@
             "nullable": true
           },
           "iso3": {
-            "maxLength": 3,
-            "minLength": 0,
             "type": "string",
             "nullable": true
           },
           "population": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cityCount": {
             "type": "integer",
             "format": "int32"
           }
