@@ -453,6 +453,18 @@
         }
       }
     },
+    "/api/Seed/User": {
+      "post": {
+        "tags": [
+          "Seed"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Seed/Country": {
       "post": {
         "tags": [

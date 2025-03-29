@@ -1,10 +1,11 @@
 using Microsoft.AspNetCore.Connections;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using StinkyModel;
 
-var builder = WebApplication.CreateBuilder(args);
+WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
@@ -15,6 +16,10 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<WorldcitiessourceContext>(options => 
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
+builder.Services.AddIdentity<StinkyUser, IdentityRole>().AddEntityFrameworkStores<WorldcitiessourceContext>(
+
+    );
+
 
 var app = builder.Build();
 

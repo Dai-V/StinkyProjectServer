@@ -284,6 +284,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "StinkyProjectServer.Controllers.SeedController",
+    "Method": "ImportUserAsync",
+    "RelativePath": "api/Seed/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "StinkyProjectServer.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

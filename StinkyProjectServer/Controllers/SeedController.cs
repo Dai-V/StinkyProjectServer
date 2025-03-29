@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using CsvHelper;
 using CsvHelper.Configuration;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StinkyModel;
@@ -15,9 +16,27 @@ namespace StinkyProjectServer.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class SeedController(WorldcitiessourceContext context, IHostEnvironment environment) : ControllerBase
+    public class SeedController(WorldcitiessourceContext context, IHostEnvironment environment,
+    UserManager<StinkyUser> userManager) : ControllerBase
     {
         string _pathName = Path.Combine(environment.ContentRootPath,"Data/worldcities.csv");
+
+        [HttpPost("User")]
+        public async Task ImportUserAsync()
+        {   
+
+            StinkyUser user = new()
+            {
+                UserName = "user",
+                Email = "user@gmail.com",
+                SecurityStamp = Guid.NewGuid().ToString(),
+            };
+            IdentityResult x = await userManager.CreateAsync(user,"Password123!");
+
+            int y = await context.SaveChangesAsync();
+            
+
+        }
 
         [HttpPost("Country")]
         public async Task<ActionResult> ImportCountryAsync ()

@@ -13,3 +13,4 @@ C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\
 C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\bin\Debug\net8.0\StinkyModel.runtimeconfig.json
 C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.genruntimeconfig.cache
 C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\obj\Debug\net8.0\StinkyModel.csproj.AssemblyReference.cache
+C:\Users\dvq13216\source\repos\StinkyProjectServer\StinkyModel\bin\Debug\net8.0\appsettings.json
