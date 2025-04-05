@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkymodel\\worldcitiessourcecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|solutionrelative:stinkymodel\\worldcitiessourcecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkymodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|solutionrelative:stinkymodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkymodel\\stinkyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|solutionrelative:stinkymodel\\stinkyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkymodel\\migrations\\worldcitiessourcecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|solutionrelative:stinkymodel\\migrations\\worldcitiessourcecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkymodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|solutionrelative:stinkymodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\dto\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\dto\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\dto\\citycountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\dto\\citycountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkyprojectserver\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604B291-A5BA-4541-A50D-42D8094A074B}|StinkyProjectServer\\StinkyProjectServer.csproj|solutionrelative:stinkyprojectserver\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|c:\\users\\dvq13216\\source\\repos\\stinkyprojectserver\\stinkymodel\\stinkyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DC55EB-A8A6-427F-8D68-5DA1A0EE322E}|StinkyModel\\StinkyModel.csproj|solutionrelative:stinkymodel\\stinkyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,132 +58,145 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\appsettings.json",
-              "RelativeDocumentMoniker": "StinkyProjectServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\appsettings.json",
-              "RelativeToolTip": "StinkyProjectServer\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T01:18:54.923Z",
+              "DocumentIndex": 4,
+              "Title": "LoginResult.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Dto\\LoginResult.cs",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\Dto\\LoginResult.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Dto\\LoginResult.cs",
+              "RelativeToolTip": "StinkyProjectServer\\Dto\\LoginResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:21:03.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityCountry.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Dto\\CityCountry.cs",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\Dto\\CityCountry.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Dto\\CityCountry.cs",
+              "RelativeToolTip": "StinkyProjectServer\\Dto\\CityCountry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:59:06.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\Country.cs",
-              "RelativeDocumentMoniker": "StinkyModel\\Country.cs",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\Country.cs",
-              "RelativeToolTip": "StinkyModel\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Dto\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\Dto\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Dto\\LoginRequest.cs",
+              "RelativeToolTip": "StinkyProjectServer\\Dto\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T01:17:22.685Z",
+              "WhenOpened": "2025-04-04T23:59:01.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WorldcitiessourceContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\Migrations\\WorldcitiessourceContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "StinkyModel\\Migrations\\WorldcitiessourceContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\Migrations\\WorldcitiessourceContextModelSnapshot.cs",
-              "RelativeToolTip": "StinkyModel\\Migrations\\WorldcitiessourceContextModelSnapshot.cs",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "StinkyProjectServer\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:55:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StinkyUser.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\StinkyUser.cs",
+              "RelativeDocumentMoniker": "StinkyModel\\StinkyUser.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\StinkyUser.cs",
+              "RelativeToolTip": "StinkyModel\\StinkyUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T01:17:18.726Z",
+              "WhenOpened": "2025-04-04T23:47:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\Controllers\\SeedController.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "StinkyProjectServer\\Controllers\\SeedController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:46:46.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "StinkyProjectServer\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:45:46.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\JwtHandler.cs",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\JwtHandler.cs",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\JwtHandler.cs",
+              "RelativeToolTip": "StinkyProjectServer\\JwtHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:38:39.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\appsettings.Development.json",
+              "RelativeToolTip": "StinkyProjectServer\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T23:26:18.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\appsettings.json",
-              "RelativeDocumentMoniker": "StinkyModel\\appsettings.json",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\appsettings.json",
-              "RelativeToolTip": "StinkyModel\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\appsettings.json",
+              "RelativeDocumentMoniker": "StinkyProjectServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\appsettings.json",
+              "RelativeToolTip": "StinkyProjectServer\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T01:17:07.327Z",
+              "WhenOpened": "2025-04-04T23:26:03.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "StinkyProjectServer\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Properties\\launchSettings.json",
-              "RelativeToolTip": "StinkyProjectServer\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T01:10:47.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "StinkyProjectServer\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\appsettings.Development.json",
-              "RelativeToolTip": "StinkyProjectServer\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T01:10:45.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Program.cs",
               "RelativeDocumentMoniker": "StinkyProjectServer\\Program.cs",
               "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Program.cs",
               "RelativeToolTip": "StinkyProjectServer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvy8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:45:30.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SeedController.cs",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\SeedController.cs",
-              "RelativeDocumentMoniker": "StinkyProjectServer\\Controllers\\SeedController.cs",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyProjectServer\\Controllers\\SeedController.cs",
-              "RelativeToolTip": "StinkyProjectServer\\Controllers\\SeedController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADwvyEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:18:34.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WorldcitiessourceContext.cs",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\WorldcitiessourceContext.cs",
-              "RelativeDocumentMoniker": "StinkyModel\\WorldcitiessourceContext.cs",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\WorldcitiessourceContext.cs",
-              "RelativeToolTip": "StinkyModel\\WorldcitiessourceContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T23:44:37.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StinkyUser.cs",
-              "DocumentMoniker": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\StinkyUser.cs",
-              "RelativeDocumentMoniker": "StinkyModel\\StinkyUser.cs",
-              "ToolTip": "C:\\Users\\dvq13216\\source\\repos\\StinkyProjectServer\\StinkyModel\\StinkyUser.cs",
-              "RelativeToolTip": "StinkyModel\\StinkyUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T23:44:36.701Z",
+              "WhenOpened": "2025-04-04T23:00:10.848Z",
               "EditorCaption": ""
             }
           ]

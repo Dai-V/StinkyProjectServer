@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StinkyProjectServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf9c38047d532866ed7cbf27aa11e225de9ec82a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d7cf42cd31410b9d2e55e1e7c7bf51d4a67bc46")]
 [assembly: System.Reflection.AssemblyProductAttribute("StinkyProjectServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StinkyProjectServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

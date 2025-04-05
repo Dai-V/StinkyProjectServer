@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "StinkyProjectServer.Controllers.AdminController",
+    "Method": "LoginAsync",
+    "RelativePath": "api/Admin/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "StinkyProjectServer.Dto.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "StinkyProjectServer.Controllers.CitiesController",
     "Method": "GetCities",
     "RelativePath": "api/Cities",

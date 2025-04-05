@@ -1,9 +1,13 @@
+using System.Text;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Connections;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
 using StinkyModel;
+using StinkyProjectServer;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +23,29 @@ builder.Services.AddDbContext<WorldcitiessourceContext>(options =>
 builder.Services.AddIdentity<StinkyUser, IdentityRole>().AddEntityFrameworkStores<WorldcitiessourceContext>(
 
     );
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new()
+    {
+        RequireAudience = true,
+        RequireExpirationTime = true,
+        ValidateAudience = true,
+        ValidateIssuer = true,
+        ValidateIssuerSigningKey = true,
+
+        ValidIssuer = builder.Configuration["JwtSettings:Issuer"],
+        ValidAudience = builder.Configuration["JwtSettings:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(
+            System.Text.Encoding.UTF8.GetBytes(builder.Configuration["JwtSettings:SecurityKey"]))
+        ??throw new InvalidOperationException()
+      
+    };
+});
+builder.Services.AddScoped<JwtHandler>();
 
 
 var app = builder.Build();
