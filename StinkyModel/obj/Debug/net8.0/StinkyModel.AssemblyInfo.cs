@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StinkyModel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf9c38047d532866ed7cbf27aa11e225de9ec82a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20784bd0010f533d121aed54e136b611d1bdcc3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("StinkyModel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StinkyModel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
